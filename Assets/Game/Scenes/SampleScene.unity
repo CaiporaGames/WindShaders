@@ -598,9 +598,19 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   hoverRadius: 0.2
-  hoverStrength: 0.04
+  hoverStrength: 0.02
+  usePresets: 1
+  currentPreset: 8
+  manualControl: 0
+  enableFabricStretch: 1
+  enableNoiseVariation: 1
+  enableRimLighting: 1
+  enableWindColorShift: 1
+  enableHoverGlow: 1
+  animateEffects: 0
+  animationSpeed: 1
   debugMode: 1
-  showDebugGizmos: 1
+  showGizmos: 1
 --- !u!1 &1291652850
 GameObject:
   m_ObjectHideFlags: 0
